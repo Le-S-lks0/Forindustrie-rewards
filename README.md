@@ -8,4 +8,4 @@
 * ... [Instru]
 
 **Contributeurs:**
-* [moi](https://github.com/Le-S-lks0)
+* [Le-s-lks0](https://github.com/Le-S-lks0)
